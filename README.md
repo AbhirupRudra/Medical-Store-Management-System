@@ -38,7 +38,7 @@ A **Python-based desktop application** built with **Tkinter GUI** and **Object-O
 
 ---
 
-## 📸 Screenshots (Optional)  
+## 📸 Screenshots 
 ![Login Page Image](Photos/Login%20Dashboard.png)
 ![Add User Image](Photos/Add%20User.png)
 ![Billing Area Image](Photos/Billing%20Area.png)
