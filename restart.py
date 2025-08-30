@@ -22,6 +22,9 @@ file = open("adminlogin.bin", "wb")
 pickle.dump("", file)
 file.close()
 
+if os.path.exists("bills") == False:
+    os.mkdir("bills")
+
 for i in os.listdir("bills/"):
     os.remove(f"bills/{i}")
     
