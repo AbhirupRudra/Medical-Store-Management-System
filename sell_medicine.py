@@ -15,7 +15,7 @@ class sell_medicine:
         self.root.title("MEDICAL STORE MANAGEMENT SYSTEM ~ ABHIRUP RUDRA")
         bg_colour = "#16fad8"
         fg_colour = "#fa23ab"
-        title = Label(self.root, text="DASHBOARD ~ PHARMASIST", bd=12, relief="groove", bg=bg_colour, fg="black", font=("times new roman", 35, "bold"), pady=2).pack(fill=X)
+        title = Label(self.root, text="Billing Area", bd=12, relief="groove", bg=bg_colour, fg="black", font=("times new roman", 35, "bold"), pady=2).pack(fill=X)
 
         #--------------------------VARIABLES--------------------------#
 
